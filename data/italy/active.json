@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Scuba Diving",
+        "description": "Italy is known for many things, from ancient culture to modern fashion. Everyone loves pasta and Sicilian pizza. Scuba diving, however, is seldom mentioned. That is a shame because the potential for scuba diving in Italy is very good. Being on the Mediterranean sea, there are thousands of miles of coast line and hundreds of off shore islands. In this page you will find more detailed information about scuba diving in Italy.",
+        "href": "https://divezone.net/diving/italy",
+        "image": "diving"
+    },
+
+    {
+        "name": "High Hiking",
+        "description": "While Italy's natural wonders are well documented, it isn't until you strike out into the wild mountains and trek along its vertiginous coastlines that you realise how bella this country really is.From the cliff-hanging trails of Amalfi to the colossal granite spires of the Dolomites, volcano climbs in Sicily to hikes deep into the heart of the flower-freckled Appenines – Italy is a boot made for walking.",
+        "href": "http://www.italymagazine.com/featured-story/top-5-places-italy-hikers",
+        "image": "high-hiking"
+    },
+
+    {
+        "name": "Climbing",
+        "description": "Italy has a wealth of great rock climbing and sport climbing areas, particularly in the mountains and Alps of northern Italy, as shown on our map.  Southern Italy also has some great sport climbing particularly in Sicily and around Napoli, as shown on our southern Italy map.",
+        "href": "https://www.mountainproject.com/area/105967155/italy",
+        "image": "climbing"
+    },
+
+
+    {
+        "name": "Cycling",
+        "description": "From the rugged coasts of Puglia to the mind-boggling switchbacks of the north, these are the best places to go cycling in Italy.Cycling in Italy is becoming as essential to the aspirations of two-wheeled purists as traditional explorations of France. From the rugged coasts of Puglia to the mind-boggling switchbacks of the north, there is plenty to suit all tastes.",
+        "href": "https://italy-cycling-guide.info/",
+        "image": "cycling"
+    }
+
+]

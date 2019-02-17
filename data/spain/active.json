@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Sailing",
+        "description": "Are you imagining how much you would like to enjoy the sunshine and crystal clear waters of a hidden cove somewhere? How would you like to enjoy all this on your own boat or a rented vessel? In Spain you can sail all year round, on a catamaran, sailing boat, motor launch... Come on! Head out onto the open sea or try sports like windsurfing, scuba diving and water skiing. Sailing is pure pleasure. Enjoy!",
+        "href": "http://www.spain.info/en/reportajes/el_placer_de_descubrir_espana_navegando.html",
+        "image": "sailing"
+    },
+
+    {
+        "name": "Surfing",
+        "description": "Spain has a lot going for it, an excellent climate, good food and an interesting history - oh, and world class surf - lots and lots of world class surf. The 4,000 km of coastline makes Spain a surfers dream location, and means that there will always be an uncrowded spot if you are prepared to look. The south is consistently warm and dry temperatures offers excellent uncrowded surfing conditions particular in the European winter months when 6ft offshore is not uncommon. It has been a popular surfing location for surfers from the UK for years but with waves like Mundaka being a regular feature in the international surfing magazines it is becoming ever more popular with the travelling surfer from all over the globe.",
+        "href": "http://www.surfing-waves.com/atlas/europe/spain.html",
+        "image": "surfing"
+    },
+
+    {
+        "name": "Snorkeling",
+        "description": "Spain has over 2000 kilometers (1200 miles) of coastline bathed by the relatively warm waters of the Mediterranean Sea. Spanish coasts offers varied underwater landscapes, particularly sea beds covered by Neptune grass, rocks or sand. Even if hundreds of potential snorkeling spots are spread along the shoreline, you’ll have to get to marine reserves to enjoy the best preserved (and rich in underwater life) areas.",
+        "href": "http://www.snorkeling-report.com/destination/snorkeling-spain/",
+        "image": "snorkeling"
+    }
+]

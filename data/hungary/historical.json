@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Buda Castle",
+        "description": "Buda Castle is the historical castle and palace complex of the Hungarian kings in Budapest. It was first completed in 1265, but the massive Baroque palace today occupying most of the site was built between 1749 and 1769. The complex in the past was referred to as either the Royal Palace or the Royal Castle (Hungarian: Királyi Vár, German: Königliche Burg. Buda Castle sits on the south tip of Castle Hill, bounded on the north by what is known as the Castle District (Várnegyed), which is famous for medieval, Baroque and 19th-century houses, churches and public buildings. The hill is linked to Clark Ádám Square and the Széchenyi Chain Bridge by the Castle Hill Funicular. The castle is a part of the Budapest World Heritage Site, so declared in 1987",
+        "href": "https://en.wikipedia.org/wiki/Buda_Castle",
+        "image": "buda-castle"
+    },
+
+    {
+        "name": "The Danube",
+        "description": "The Danube or Donau is Europe's second longest river, after the Volga. It is located in Central and Eastern Europe. The Danube was once a long-standing frontier of the Roman Empire, and today flows through 10 countries, more than any other river in the world. Originating in Germany, the Danube flows southeast for 2,860 km, passing through or touching the border of Austria, Slovakia, Hungary, Croatia, Serbia, Romania, Bulgaria, Moldova and Ukraine before emptying into the Black Sea. Its drainage basin extends into nine more countries. The Danube river basin is the most biodiverse region in Europe, and is home to hundreds of fish species, such as pike, zander, huchen, wels catfish, burbot and tench. It is also home to a large diversity of carp and sturgeon, as well as salmon and trout. A few species of euryhaline fish, such as European seabass, mullet, and eel, inhabit the Danube delta and the lower portion of the river.",
+        "href": "http://budapestrivercruise.com/",
+        "image": "banube"
+    },
+
+    {
+        "name": "Sopron",
+        "description": "The architecture of the old section of town reflects its long history; walls and foundations from the Roman Empire are still common, together with a wealth of Medieval, Renaissance, and Baroque structures, often artistically decorated, showing centuries of stability and prosperity. There is an old synagogue and other remains from the town's former Jewish community, which was expelled in the 16th century. On Daloshegy, there is a 165-metre tall FM-/TV-broadcasting tower, nicknamed Rakéta (Hungarian for rocket).",
+        "href": "https://en.wikipedia.org/wiki/Sopron",
+        "image": "sopron"
+    },
+
+    {
+        "name": "Eger Castle",
+        "description": "The first castle was built on the high hill named Várhegy at Felsőtárkány near Eger. During the Mongol invasion in 1241, this castle was ruined, and the bishop of Eger moved it to a rocky hill in the city of Eger. On the hill, a new castle was built, and it developed rapidly. In 1470 a Gothic palace was built. In 1552, a Turkish army of 35,000-40,000 soldiers attacked the castle which had 2,100-2,300 defenders. The siege failed as the Turks suffered heavy casualties. A total of 1,700 of the defenders survived. After that Turks besieged the castle again in 1596, resulting in a Turkish victory. In 1701, the Austrians exploded half of the castle. Archaeological excavation only started in 1925 and the castle was used by the army as barracks until 1957.",
+        "href": "http://www.ieger.com/eger-castle.html",
+        "image": "eger-castle"
+    }
+]

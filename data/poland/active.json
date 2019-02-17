@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Parachuting",
+        "description": "Skydiving and parachuting is a very popular “sport” in Poland and there are plenty of different dropzones to enjoy or for the beginner, there are many places where skydiving or parachuting courses are offered. Poland attracts skydivers from around the world and in August 2010, skydivers in Poland broke the European record for the number of people in a formation when 104 people joined together in the air. The team jumped out of five planes at a height of 4,800 metres. The jump was their 15th attempt at breaking the record.",
+        "href": "http://www.skycamp.pl/en/",
+        "image": "parachuting"
+    },
+    
+    {
+        "name": "Sailing",
+        "description": "The sailing season in Poland opens in early May and lasts until the end September. During this period, numerous centres organise cruises, courses and training sessions enabling future sailors to obtain a sailing license confirming their abilities to steer a yacht. In Poland, no licenses are required a sailing yacht with hull length up to 7.5 m or a motor yacht with 10kW engine power for water tourism purposes. However, sailing on or hiring bigger units, whether in land or at sea, requires relevant sailing or motorboat licenses issued by the Polish Yachting Association. Alternatively, people without such licenses can hire a yacht with a qualified skipper on board or enjoy of one of the tourist cruises organised by numerous yachting agencies.",
+        "href": "https://en.wikipedia.org/wiki/Category:Sailing_in_Poland",
+        "image": "sailing"
+    },
+    
+    {
+        "name": "Cycling",
+        "description": "Biking is becoming number one activity in Poland. All newly-built cycling lanes in the cities, bitten forest and river banks’ trails, challenging mountain trails attract thousands of tourists every year. The recent investments in biking infrastructure have made Poland a perfect destination for biking in Europe. Join us for a ride! You'll love it.",
+        "href": "https://www.poland.travel/en/cycling",
+        "image": "cycling"
+    }
+]

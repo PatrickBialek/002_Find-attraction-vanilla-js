@@ -1,0 +1,44 @@
+[
+    {
+        "name": "The Alhambra and Generalife Gardens",
+        "description": "It occupied the slopes of the Hill of the Sun (Cerro del Sol), from which there is a complete view over the city and the valleys of the rivers Genil and Darro. There are different interpretations of the meaning of its name: the Governor's Garden, the Architect's (alarife) Garden, the Vegetable Garden of the Gypsy Festivity Organiser, etc. The Generalife became a leisure place for the kings of Granada when they wanted to get away from the official affairs of the palace. It was built in the 13th century and it was redecorated by the king Abu I-Walid Isma'il (1313-1324), as it is explained by an inscription that dates from 1319. This means that the Generalife was built before the Comares Palace. In spite of it being very close to the Alhambra and the close relationship between the two complexes, it is considered to be outside the city. A rebellion against Mohammed V even broke out in the Alhambra while he was in the Generalife. ",
+        "href": "https://www.alhambradegranada.org/en/info/generalife/thegeneralife.asp",
+        "image": "alhambra"
+    },
+
+    {
+        "name": "Barcelona's Sagrada Familia",
+        "description": "The Basílica i Temple Expiatori de la Sagrada Família is a large unfinished Roman Catholic church in Barcelona, designed by Catalan architect Antoni Gaudí. Gaudí's work on the building is part of a UNESCO World Heritage Site and in November 2010 Pope Benedict XVI consecrated and proclaimed it a minor basilica,as distinct from a cathedral, which must be the seat of a bishop. In 1882, construction of Sagrada Família started under architect Francisco de Paula del Villar. In 1883, when Villar resigned, Gaudí took over as chief architect, transforming the project with his architectural and engineering style, combining Gothic and curvilinear Art Nouveau forms. Gaudí devoted the remainder of his life to the project, and at the time of his death at age 73 in 1926, less than a quarter of the project was complete.",
+        "href": "https://www.barcelona.de/en/barcelona-sagrada-familia.html",
+        "image": "sagrada"
+    },
+
+    {
+        "name": "The Great Mosque of Cordoba",
+        "description": "The Mosque–Cathedral of Córdoba, also known as the Great Mosque of Córdoba (Spanish: Mezquita de Córdoba) and the Mezquita,whose ecclesiastical name is the Cathedral of Our Lady of the Assumption is the Catholic cathedral of the Diocese of Córdoba dedicated to the Assumption of the Virgin Mary and located in the Spanish region of Andalusia. The structure is regarded as one of the most accomplished monuments of Moorish architecture. According to a traditional account, a small Visigoth church, the Catholic Basilica of Saint Vincent of Lérins, originally stood on the site. In 784 Abd al-Rahman I ordered construction of the Great Mosque, which was considerably expanded by later Muslim rulers. Córdoba returned to Christian rule in 1236 during the Reconquista, and the building was converted to a Roman Catholic church, culminating in the insertion of a Renaissance cathedral nave in the 16th century.",
+        "href": "http://www.travelingthruhistory.com/the-great-mosque-of-cordoba-3/",
+        "image": "mosque-of-cordoba"
+    },
+
+    {
+        "name": "Seville Cathedral",
+        "description": "The Cathedral of Saint Mary of the See, better known as Seville Cathedral, is a Roman Catholic cathedral in Seville. It was registered in 1987 by UNESCO as a World Heritage Site, along with the adjoining Alcázar palace complex and the General Archive of the Indies. See refers to the episcopal see, i.e., the bishop's ecclesiastical jurisdiction. After its completion in the early 16th century, Seville Cathedral supplanted Hagia Sophia as the largest cathedral in the world, a title the Byzantine church had held for nearly a thousand years. It is the third-largest church in the world as well as the largest Gothic church. The total area occupied by the building is 23,500 square meters. The Gothic section alone has a length of 126 meters, a width of 83 meters and its maximum height in the center of the transept is 37 meters. The total height of the Giralda tower from the ground to the weather vane is 96 meters. Since the world's two largest churches are not the seats of bishops, Seville Cathedral is still the largest cathedral in the world.",
+        "href": "https://en.wikipedia.org/wiki/Seville_Cathedral",
+        "image": "sevilla-cathedral"
+    },
+
+    {
+        "name": "Plaza Mayor",
+        "description": "The Plaza Mayor was first built during Philip III's reign and is a central plaza in the city of Madrid, Spain. It is located only a few Spanish blocks away from another famous plaza, the Puerta del Sol. The Plaza Mayor is rectangular in shape, measuring 129 m × 94 m, and is surrounded by three-story residential buildings having 237 balconies facing the Plaza. It has a total of nine entrance ways. The Casa de la Panadería, serving municipal and cultural functions, dominates the Plaza Mayor",
+        "href": "https://en.wikipedia.org/wiki/Plaza_Mayor,_Madrid",
+        "image": "plaza-madrid"
+    },
+
+    {
+        "name": "Toledo's Old City",
+        "description": "Toledo is a city and municipality located in central Spain; it is the capital of the province of Toledo and the autonomous community of Castile–La Mancha. Toledo was declared a World Heritage Site by UNESCO in 1986 for its extensive monumental and cultural heritage. Toledo is known as the Imperial City for having been the main venue of the court of Charles V, Holy Roman Emperor, and as the City of the Three Cultures for the cultural influences of Christians, Muslims and Jews reflected in its history. It was also the capital from 559 to 725 of the ancient Visigothic kingdom, which followed the fall of the Roman Empire, and the location of historic events such as the Visigothic Councils of Toledo. Toledo has a long history in the production of bladed weapons, which are now popular souvenirs of the city.",
+        "href": "https://www.tripadvisor.com/ShowUserReviews-g187489-d3236411-r269518064-Toledo_City_Tour-Toledo_Province_of_Toledo_Castile_La_Mancha.html",
+        "image": "toledo-old-city"
+    }
+
+]

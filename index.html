@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<title>Find attraction in chosen place around the world!</title>
+	<link rel="icon" href="images/earth.png" />
+	<link href="https://fonts.googleapis.com/css?family=Raleway:400,700,800" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400" rel="stylesheet" />
+	<script defer src="dist/bundle.js"></script>
+</head>
+
+<body>
+	<main class="main">
+		<div class="choose-places">
+			<h1 class="heading-primary">Find atractions</h1>
+			<p class="heading-description">
+				Suspendisse vitae orci ullamcorper, rutrum lorem sed, interdum lorem.
+			</p>
+			<select class="select" id="select-country">
+				<option value="">Choose country...</option>
+				<option value="hungary">Hungary</option>
+				<option value="italy">Italy</option>
+				<option value="new-zeland">New Zeland</option>
+				<option value="poland">Poland</option>
+				<option value="spain">Spain</option>
+				<option value="turkey">Turkey</option>
+			</select>
+			<select class="select" id="select-type" disabled>
+				<option value="">Choose type...</option>
+				<option value="active">Active</option>
+				<option value="historical">Historical</option>
+				<option value="natural">Natural</option>
+			</select>
+			<input class="btn btn--white" type="button" id="search-propositions" value="search" disabled />
+		</div>
+		<div class="finded-places" id="finded-places">
+			<h2 class="heading-secondary">List of available places:</h2>
+			<div class="finded-places__default-content" id="default-content">
+				<p>Here will be placed your atractions...</p>
+			</div>
+			<div class="finded-places__updated-content"></div>
+		</div>
+	</main>
+	<footer class="footer">
+		<div class="footer__content">
+			<p class="footer__paragraph">© All Rights Reserved.</p>
+			<p class="footer__paragraph">Patryk Białek</p>
+		</div>
+	</footer>
+</body>
+
+</html>

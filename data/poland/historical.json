@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Wawel Castle",
+        "description": "The Wawel Castle is a castle residency located in central Kraków, Poland. Built at the behest of King Casimir III the Great, it consists of a number of structures situated around the Italian-styled main courtyard. The castle, being one of the largest in Poland, represents nearly all European architectural styles of medieval, renaissance and baroque periods. The Wawel Royal Castle and the Wawel Hill constitute the most historically and culturally significant site in the country. In 1978 it was declared a UNESCO World Heritage Site as part of the Historic Centre of Kraków.",
+        "href": "https://en.wikipedia.org/wiki/Wawel_Castle",
+        "image": "wawel-castle"
+    },
+
+    {
+        "name": "Malbork Castle",
+        "description": "The Castle of the Teutonic Order in Malbork was built in the 13th century in Prussia and is currently located near the town of Malbork, Poland. It is the largest castle in the world measured by land area. It was originally built by the Teutonic Knights, a German Roman Catholic religious order of crusaders, in a form of an Ordensburg fortress. The Order named it Marienburg (Mary's Castle). The town which grew around it was also named Marienburg. In 1466, during the division of Prussia into eastern and western parts the castle and town became part of western Royal Prussia. Heavily damaged after World War II, the castle was renovated under the auspices of modern-day Poland in the second half of the 20th century and most recently in 2016. Nowadays, the castle hosts exhibitions and serves as a museum.",
+        "href": "http://www.zamek.malbork.pl/en",
+        "image": "malbork-castle"
+    },
+
+    {
+        "name": "Gdansk Old Town",
+        "description": "Old Town in Gdańsk refers to the part of the city north of the modern city center. Notable structures include: Gdańsk Granaries Gdańsk Mills Gdańsk Town Hall Monument of King Sobieski Polish Post Preachers' House several old buildings and churches.",
+        "href": "https://www.local-life.com/gdansk/articles/gdansk-guide",
+        "image": "gdansk-old-town"
+    },
+
+    {
+        "name": "Auschwitz-Birkenau",
+        "description": "The Auschwitz-Birkenau Memorial and Museum, Poland, which includes the Nazi concentration camps Auschwitz I and Auschwitz II-Birkenau. It is devoted to the memory of the victims who died at both camps during World War II.",
+        "href": "http://www.auschwitz.org/",
+        "image": "auschwitz-birkenau"
+    }
+
+]

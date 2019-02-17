@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Lanzarote",
+        "description": "Lanzarote, one of the Canary islands off the coast of West Africa administered by Spain, is known for its year-round warm weather, beaches and volcanic landscape. Timanfaya National Park’s rocky landscape was created by volcanic eruptions in the 1730s. Cueva de los Verdes has caverns formed by an underground river of lava. East-coast resort Puerto del Carmen is home to whitewashed villas, beaches and dive centers.",
+        "href": "http://www.spain.info/en/que-quieres/ciudades-pueblos/provincias/lanzarote.html",
+        "image": "lanzarote"
+    },
+
+    {
+        "name": "Gran Canaria",
+        "description": "Gran Canaria is one of Spain’s Canary Islands, off northwestern Africa. It's known for its black lava and white sand beaches. Its southern beaches include bustling Playa del Inglés and Puerto Rico as well as quieter Puerto de Mogán and San Agustín. In the north, capital city Las Palmas is a major stop for cruise ships and duty-free shopping. The island’s interior is rural and mountainous.",
+        "href": "https://en.wikipedia.org/wiki/Gran_Canaria",
+        "image": "gran-canaria"
+    },
+
+    {
+        "name": "Gaztelugatxe",
+        "description": "Gaztelugatxe is an islet on the coast of Biscay belonging to the municipality of Bermeo, Basque Country. It is connected to the mainland by a man-made bridge. On top of the island stands a hermitage, dedicated to John the Baptist, that dates from the 10th century, although discoveries indicate that the date might be the 9th century. With another small neighboring island, Aketx, they form a protected biotope that extends from the town of Bakio until Cape Matxitxako, on the Bay of Biscay.",
+        "href": "http://www.euskoguide.com/places-basque-country/spain/san-juan-de-gaztelugatxe/",
+        "image": "gaztelugatxe"
+    },
+
+    {
+        "name": "Somiedo Natural Park",
+        "description": "Somiedo Nature Park, which is located in the southern part of Asturias, on the border between the areas of the central and western mountain ranges, comprises the borough of Somiedo. Biosphere Reserve and European Charter for Sustainable Tourism.",
+        "href": "https://www.turismoasturias.es/en/descubre/naturaleza/reservas-de-la-biosfera/parque-natural-de-somiedo",
+        "image": "somiedo-natural-park"
+    },
+
+    {
+        "name": "As Catedrais Beach",
+        "description": "As Catedrais beach translates as 'Beach of the Cathedrals'. It is the turistic name of Praia de Augas Santas. The Spanish beach is located in the Ribadeo municipality, in the province of Lugo, on the Cantabric coast, and it lies about ten kilometres to the west from the town of Ribadeo. Its name is derived from the formations of its cliffs. It has been declared a Natural Monument by the regional Ministry for the Environment of the Xunta de Galicia.",
+        "href": "http://www.spain.info/en/que-quieres/destinos-playa/playas/lugo/as_catedrais.html",
+        "image": "as-catedrais-beach"
+    },
+
+    {
+        "name": "Cabo de Gata-Nijar Natural Park",
+        "description": "Cabo de Gata-Níjar Natural Park in the southeastern corner of Spain, is Andalucia's largest coastal protected area, a wild and isolated landscape with some of Europe's most original geological features. Spain's southeast coast, where the park is situated, is the only region in mainland Europe with a true hot desert climate.The eponymous mountain range of the Sierra del Cabo de Gata with its highest peak El Fraile is Spain's largest volcanic rock formation with sharp peaks and crags in red and ochre-hues. It falls steeply to the Mediterranean Sea creating jagged 100-metre high cliffs, which are riven by gullies leading to hidden coves with white sandy beaches, some of the most beautiful in Andalucia.",
+        "href": "http://www.cabogataspain.com/",
+        "image": "cabo-de"
+    }
+]

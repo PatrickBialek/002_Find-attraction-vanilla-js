@@ -1,0 +1,10 @@
+.footer {
+	padding: 26px;
+	background-color: $almost-black;
+	&__paragraph {
+		font-size: 1.8rem;
+		line-height: 2.2rem;
+		color: $white-grey;
+		font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	}
+}

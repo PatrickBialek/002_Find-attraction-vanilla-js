@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Aya Sofya",
+        "description": "Hagia Sophia a structure built under order of Justinian, and later turned into a mosque, when it was captured by the Ottoman imperial in 29 May 1453. The structure is now a museum in Istanbul, Turkey. From the date of its construction in 537 AD until 1453, it served as an Eastern Orthodox cathedral and the seat of the Patriarch of Constantinople, except between 1204 and 1261, when it was converted by the Fourth Crusaders to a Roman Catholic cathedral under the Latin Empire. The building was later converted into an Ottoman mosque from 29 May 1453 until 1931. It was then secularized and opened as a museum on 1 February 1935 Famous in particular for its massive dome, it is considered the epitome of Byzantine architecture and is said to have changed the history of architecture. It remained the world's largest cathedral for nearly a thousand years, until Seville Cathedral was completed in 1520.",
+        "href": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+        "image": "aya-sofya"
+    },
+
+    {
+        "name": "Ephesus",
+        "description": "Ephesus was an ancient Greek city on the coast of Ionia, three kilometres southwest of present-day Selçuk in İzmir Province, Turkey. It was built in the 10th century BC on the site of the former Arzawan capital by Attic and Ionian Greek colonists. During the Classical Greek era it was one of the twelve cities of the Ionian League. The city flourished after it came under the control of the Roman Republic in 129 BC. The city was famed for the nearby Temple of Artemis, one of the Seven Wonders of the Ancient World. Among many other monumental buildings are the Library of Celsus, and a theatre capable of holding 25,000 spectators.",
+        "href": "https://en.wikipedia.org/wiki/Ephesus",
+        "image": "ephesus"
+    },
+
+    {
+        "name": "Sumela Monastery",
+        "description": "Sumela Monastery is a Greek Orthodox monastery dedicated to the Virgin Mary at Melá Mountain range, in the Maçka district of Trabzon Province in modern Turkey. According to another version of decryption of the monastery complex name, it comes from Laz word sumela which means Trinity in English",
+        "href": "https://www.lonelyplanet.com/turkey/black-sea-coast/attractions/sumela-monastery/a/poi-sig/1249156/360902",
+        "image": "sumela-monastery"
+    },
+
+    {
+        "name": "Mount Nemrut",
+        "description": "Nemrut or Nemrud is a 2,134-metre-high (7,001 ft) mountain in southeastern Turkey, notable for the summit where a number of large statues are erected around what is assumed to be a royal tomb from the 1st century BC. The name is a relatively modern one, dating back to the Middle Ages. In Armenian legend, Hayk defeated the Biblical king Nimrod (equated with Bel) and buried him in these mountains. Nemrut is most likely to have received its name from an Armenian tradition in which Nimrod was killed by an arrow by Hayk during a massive battle between two rival armies of giants to the south-east of Lake Van",
+        "href": "http://whc.unesco.org/en/list/448",
+        "image": "mount-nemrut"
+    },
+
+    {
+        "name": "Ani",
+        "description": "Ani is a ruined medieval Armenian city now situated in Turkey's province of Kars, next to the closed border with Armenia. Between 961 and 1045, it was the capital of the Bagratid Armenian kingdom that covered much of present-day Armenia and eastern Turkey. Called the City of 1001 Churches, Ani stood on various trade routes and its many religious buildings, palaces, and fortifications were amongst the most technically and artistically advanced structures in the world. At its height, the population of Ani probably was on the order of 100,000.",
+        "href": "https://en.wikipedia.org/wiki/Ani",
+        "image": "ani"
+    },
+
+    {
+        "name": "Pergamum",
+        "description": "Pergamon was a rich and powerful ancient Greek city in Aeolis. It is located 26 kilometres from the modern coastline of the Aegean Sea on a promontory on the north side of the river Caicus and northwest of the modern city of Bergama. During the Hellenistic period, it became the capital of the Kingdom of Pergamon under the Attalid dynasty in 281–133 BC, who transformed it into one of the major cultural centres of the Greek world. Many remains of its impressive monuments can still be seen and especially the outstanding masterpiece of the Pergamon Altar. Pergamon is cited in the Book of Revelation as one of the seven churches of Asia.",
+        "href": "https://en.wikipedia.org/wiki/Pergamon",
+        "image": "pergamum"
+    }
+
+]

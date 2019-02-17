@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Duden Waterfalls",
+        "description": "Düden Waterfalls are a group of waterfalls in the province of Antalya, Turkey. The waterfalls, formed by the recycle station water, are located 12 kilometres north-east of Antalya. They end where the waters of the Lower Düden Falls drop off a rocky cliff directly into the Mediterranean Sea",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g297962-d549674-Reviews-Duden_Waterfalls-Antalya_Turkish_Mediterranean_Coast.html",
+        "image" : "duden-waterfalls"
+    },
+    
+    {
+        "name": "Gulludere Vadisi",
+        "description": "The Munzur Valley National Park, established on December 21, 1971, is the largest and the most biodiverse national park in Turkey. It is located at the Munzur Valley of Munzur Mountain Range within Tunceli Province in eastern Anatolia. The Munzur Valley National Park, part of the Eastern Anatolian mountainous ecoregion, is one of the richest floristic areas of Anatolia. The national park was established to protect the region’s wildlife and scenic beauty. The protected area is administered by the Directorate-General of Nature Protection and National Parks of the Ministry of Environment and Forest, although even outside of the administered area the landscape is very well preserved. A large part of this may be due to the Alevi inhabitants of the region, who respect nature as part of their religious beliefs.",
+        "href": "https://www.tripadvisor.co.uk/Attraction_Review-g297983-d3335684-Reviews-Gulludere_Vadisi-Goreme_Cappadocia.html",
+        "image" : "gulludere-vadisi"
+    },
+
+    {
+        "name": "Mount Ararat",
+        "description": "Mount Ararat is a snow-capped and dormant compound volcano in the extreme east of Turkey. It consists of two major volcanic cones: Greater Ararat, the highest peak in Turkey and the Armenian plateau with an elevation of 5,137 m (16,854 ft); and Little Ararat, with an elevation of 3,896 m. The Ararat massif is about 35 km (22 mi) wide at ground base.",
+        "href": "https://en.wikipedia.org/wiki/Mount_Ararat",
+        "image" : "ararat"
+    },
+
+    {
+        "name": "Ölüdeniz",
+        "description": "Ölüdeniz is a resort village on the southwest coast of Turkey. It’s known for the blue lagoon of Ölüdeniz Tabiat Parkı and the wide, white Belcekız Beach. Overlooking the village is Babadağ mountain from where paragliders take to the skies. The Lycian Way is a long-distance marked footpath starting in Ölüdeniz, and has coastal views. To the south, Butterfly Valley is a nature reserve with a secluded bay.",
+        "href": "https://en.wikipedia.org/wiki/%C3%96l%C3%BCdeniz",
+        "image" : "oludeniz"
+    },
+
+    {
+        "name": "Cappadocia",
+        "description": "Cappadocia, a semi-arid region in central Turkey, is known for its distinctive “fairy chimneys,” tall, cone-shaped rock formations clustered in Monks Valley, Göreme and elsewhere. Other notables sites include Bronze Age homes carved into valley walls by troglodytes (cave dwellers) and later used as refuges by early Christians. The 100m-deep Ihlara Canyon houses numerous rock-face churches.",
+        "href": "https://www.tripadvisor.com/Tourism-g297980-Cappadocia-Vacations.html",
+        "image" : "cappadocia"
+    }
+]

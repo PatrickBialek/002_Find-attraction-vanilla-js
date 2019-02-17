@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Fiordland National Park",
+        "description": "Fiordland National Park is in the southwest of New Zealand’s South Island. It’s known for the glacier-carved fiords of Doubtful and Milford sounds. A beech forest trail on the sandy Milford shore offers views of towering Mitre Peak. Nearby, the craggy Earl Mountains are reflected in the glassy surface of Mirror Lakes. On the Cleddau River, the Chasm Walk passes over bridges with views of powerful waterfalls.",
+        "href": "https://www.fiordland.org.nz/about-fiordland/fiordland-national-park/",
+        "image": "fiordland-national-park"
+    },
+
+    {
+        "name": "Bay of Islands",
+        "description": "The Bay of Islands is a New Zealand enclave encompassing more than 140 subtropical islands next to the country's North Island. It’s known for its undeveloped beaches, big-game fishing and Maori cultural artefacts. It's also home to the 19th-century whaling port of Russell, whose waterfront promenade is lined with remnants from its days as the country’s first colonial capital.",
+        "href": "https://www.newzealand.com/int/bay-of-islands/",
+        "image": "bay-of-islands"
+    },
+
+    {
+        "name": "Lake Taupo",
+        "description": "Lake Taupo is a lake in the North Island of New Zealand. It is in the caldera of the Taupo Volcano. With a surface area of 616 square kilometres, it is the largest lake by surface area in New Zealand, and the second largest freshwater lake by surface area in geopolitical Oceania after Lake Murray. Motutaiko Island lies in the south east area of the lake.Lake Taupo has a perimeter of approximately 193 kilometres and a deepest point of 186 metres. It is drained by the Waikato River, and its main tributaries are the Waitahanui River, the Tongariro River, and the Tauranga Taupo River. It is a noted trout fishery with stocks of introduced brown and rainbow trout.",
+        "href": "https://www.greatlaketaupo.com/",
+        "image": "lake-taupo"
+    },
+
+    {
+        "name": "Rotorua",
+        "description": "Rotorua, a town set on its namesake lake on New Zealand's North Island, is renowned for its geothermal activity and Maori culture. In Te Puia’s Whakarewarewa Valley, there are bubbling mud pools and the 30m-tall Pohutu Geyser, which erupts many times daily. It’s also home to a living Maori village and the New Zealand Maori Arts and Crafts Institute, with traditional wood carving and weaving schools.",
+        "href": "http://www.rotoruanz.com/",
+        "image": "rotorua"
+    },
+
+    {
+        "name": "Abel Tasman National Park",
+        "description": "Abel Tasman National Park is a wilderness reserve at the north end of New Zealand’s South Island. It’s known for the Abel Tasman Coast Track, a long trail winding over beaches and across ridges between Marahau in the south and Wainui in the north. The headland at Separation Point is home to New Zealand fur seal colonies. Little blue penguins, bottlenose dolphins and seals inhabit the Tonga Island Marine Reserve.",
+        "href": "http://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/abel-tasman-national-park/",
+        "image": "abel-tasman"
+    },
+
+    {
+        "name": "Aoraki Mount Cook National Park",
+        "description": "Aoraki/Mount Cook National Park is in the South Island of New Zealand, near the town of Twizel. Aoraki / Mount Cook, New Zealand's highest mountain, and Aoraki/Mount Cook Village lie within the park. The area was gazetted as a national park in October 1953 and consists of reserves that were established as early as 1887 to protect the area's significant vegetation and landscape. Even though most of the park is alpine terrain, it is easily accessible. The only road access into Aoraki/Mount Cook National Park is via State Highway 80, which starts near Twizel, at 65 kilometres distance the closest town to the park, and leads directly to Mount Cook Village, where the road ends. The village is situated within the park, however, it consists only of a hotel and motels, as well as housing and amenities for the staff of the hotel and motels and other support personnel.",
+        "href": "http://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/",
+        "image": "aoraki"
+    },
+
+    {
+        "name": "Coromandel Peninsula",
+        "description": "The Coromandel Peninsula on the North Island of New Zealand extends 85 kilometres north from the western end of the Bay of Plenty, forming a natural barrier to protect the Hauraki Gulf and the Firth of Thames in the west from the Pacific Ocean to the east. It is 40 kilometres wide at its broadest point. Almost the entire population lies on the narrow coastal strips fronting the Hauraki Gulf and the Bay of Plenty. In fine weather the peninsula is clearly visible from Auckland, the country's biggest city, which lies on the far shore of the Hauraki Gulf, 55 kilometres to the west. The peninsula is part of the local government areas of Thames-Coromandel District and the Waikato Region.",
+        "href": "https://en.wikipedia.org/wiki/Coromandel_Peninsula",
+        "image": "coromandel-peninsula"
+    },
+
+    {
+        "name": "Kaikoura",
+        "description": "Kaikoura is a coastal town on the South Island of New Zealand. It’s known for its abundant wildlife and its sperm whale population. The Kaikoura Peninsula Walkway winds from the town centre to lookout points at Point Kean. Close by, the rock platforms are home to a colony of New Zealand fur seals. The 1800s Fyffe House is a cottage built on a foundation of whalebones, with displays on the town’s whaling past.",
+        "href": "http://www.pngp.it/en",
+        "image": "kaikoura"
+    }
+]

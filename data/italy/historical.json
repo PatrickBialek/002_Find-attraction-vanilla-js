@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Colosseum in Rome",
+        "description": "The Colosseum or Coliseum, also known as the Flavian Amphitheatre, is an oval amphitheatre in the centre of the city of Rome, Italy. Built of travertine, tuff, and brick-faced concrete, it is the largest amphitheatre ever built. The Colosseum is situated just east of the Roman Forum. Construction began under the emperor Vespasian in AD 72, and was completed in AD 80 under his successor and heir Titus. Further modifications were made during the reign of Domitian (81–96). These three emperors are known as the Flavian dynasty, and the amphitheatre was named in Latin for its association with their family name (Flavius).",
+        "href": "https://www.coopculture.it/en/colosseo-e-shop.cfm",
+        "image": "coliseum"
+    },
+
+    {
+        "name": "Grand Canal in Venice",
+        "description": "The Grand Canal is a canal in Venice, Italy. It forms one of the major water-traffic corridors in the city. Public transport is provided by water buses (Italian: vaporetti; Venetian: vaporeti) and private water taxis. As well, many tourists explore the canal by gondola. One end of the canal leads into the lagoon near the Santa Lucia railway station and the other end leads into the basin at San Marco; in between, it makes a large reverse-S shape through the central districts of Venice. It is 3.8 km long, and 30 to 90 m wide, with an average depth of five meters.",
+        "href": "https://en.wikipedia.org/wiki/Grand_Canal_(Venice)",
+        "image": "great-canal"
+    },
+
+    {
+        "name": "Santa Maria del Fiore",
+        "description": "Florence Cathedral, formally the Cattedrale di Santa Maria del Fiore is the cathedral of Florence, Italy, or Il Duomo di Firenze, in Italian. It was begun in 1296 in the Gothic style to a design of Arnolfo di Cambio and was structurally completed by 1436, with the dome designed by Filippo Brunelleschi.[1] The exterior of the basilica is faced with polychrome marble panels in various shades of green and pink, bordered by white, and has an elaborate 19th-century Gothic Revival façade by Emilio De Fabris.",
+        "href": "https://en.wikipedia.org/wiki/Florence_Cathedral",
+        "image": "santa-maria"
+    },
+
+    {
+        "name": "Piazza del Campo",
+        "description": "Piazza del Campo is the principal public space of the historic center of Siena, Tuscany, Italy and is regarded as one of Europe's greatest medieval squares. It is renowned worldwide for its beauty and architectural integrity. The Palazzo Pubblico and its Torre del Mangia, as well as various palazzi signorili surround the shell-shaped piazza. At the northwest edge is the Fonte Gaia. The twice-a-year horse-race, Palio di Siena, is held around the edges of the piazza. The piazza is also the finish of the annual road cycling race Strade Bianche.",
+        "href": "https://en.wikipedia.org/wiki/Piazza_del_Campo",
+        "image": "piazza-del-campo"
+    },
+
+    {
+        "name": "Pompeii",
+        "description": "Pompeii was an ancient Roman town-city near modern Naples, in the Campania region of Italy, in the territory of the comune of Pompei. Pompeii, along with Herculaneum and many villas in the surrounding area, was mostly destroyed and buried under 4 to 6 m of volcanic ash and pumice in the eruption of Mount Vesuvius in AD 79. Archaeologists believe that the town was founded in the 7th or 6th century BC by the Osci or Oscans. It came under the domination of Rome in the 4th century BC, and was conquered and became a Roman colony in 80 BC after it joined an unsuccessful rebellion against the Roman Republic. By the time of its destruction, 160 years later, its population was estimated at 11,000 people, and the city had a complex water system, an amphitheatre, a gymnasium, and a port.",
+        "href": "https://www.britannica.com/place/Pompeii",
+        "image": "pompeii"
+    },
+
+    {
+        "name": "Leaning Tower of Pisa",
+        "description": "The Leaning Tower of Pisa is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its unintended tilt. The tower is situated behind the Pisa Cathedral and is the third oldest structure in the city's Cathedral Square, after the cathedral and the Pisa Baptistry. The tower's tilt began during construction in the 12th century, caused by an inadequate foundation on ground too soft on one side to properly support the structure's weight. The tilt increased in the decades before the structure was completed in the 14th century. It gradually increased until the structure was stabilized by efforts in the late 20th and early 21st centuries",
+        "href": "http://www.towerofpisa.org/",
+        "image": "leaning-tower"
+    },
+
+    {
+        "name": "Portofino",
+        "description": "Portofino is an Italian fishing village and holiday resort famous for its picturesque harbour and historical association with celebrity and artistic visitors. It is a comune located in the Metropolitan City of Genoa on the Italian Riviera. The town is clustered around its small harbour, and is known for the colourfully painted buildings that line the shore.",
+        "href": "https://wikitravel.org/en/Portofino",
+        "image": "portofino"
+    }
+
+]

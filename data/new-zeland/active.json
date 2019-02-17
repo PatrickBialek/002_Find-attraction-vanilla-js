@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Hang gliding",
+        "description": "When paragliding or hang-gliding, sometimes you’re flying, sometimes you’re floating. It's exciting, peaceful and a little scary all at the same time. A tandem paraglide puts you in the capable hands of a professional paragliding pilot. It’s lets you experience the thrill of free flying without going through a lengthy learning process. There are almost no age or size limits for tandem paragliding.",
+        "href": "https://www.newzealand.com/ca/paragliding-and-hang-gliding/",
+        "image": "hang-gliding"
+    },
+
+    {
+        "name": "Camping",
+        "description": "Camping in New Zealand is a popular pastime. As a land of the outdoors, it's not surprising that a night under canvas is a preferred accommodation option. There are few greater pleasures than sitting around a campfire on a clear-skied evening listening to waves breaking or gurgling rivers. In New Zealand you can go tenting in the magnificent wilderness of one of the National Parks. Or drive around the coast and talk to the locals - you may even get access to gorgeous, unspoilt, quiet beaches.",
+        "href": "https://www.newzealand.com/ca/paragliding-and-hang-gliding/",
+        "image": "camping"
+    },
+
+    {
+        "name": "Snorkeling",
+        "description": "Snorkelling in New Zealand is a very popular activity for locals and visitors despite the country's lack of tropical reef. New Zealand's best snorkelling spots offer snorkellers a wide variety of habitats and fauna, as after all, the country is located between three oceans and has a coastline of over 15,000 kilometres. Many of New Zealand's prime snorkelling sites are just offshore offering easy and free access, which makes snorkelling a very budget-friendly activity suitable for the whole family.",
+        "href": "https://www.newzealand.com/ca/paragliding-and-hang-gliding/",
+        "image": "snorkeling"
+    },
+
+    {
+        "name": "High hiking",
+        "description": "Misted mountains and emerald fjords, ancient fern-ridden forests and cascading waterfalls, miles of empty black and white sand beaches. You’re likely to find any sort of wild path you’re willing to tread in New Zealand’s manifold lands rife with majesty. At times you’ll feel you’ve stumbled into a fantasy. And perhaps you have: your own. To navigate the Land of the Long White Cloud is easy, but to choose your path when time is shorter than your desire—that’s an overwhelming prospect. Here, we guide you, in your drop-jawed stupor, to the best terrain for two intrepid feet on both islands. You’ll need a sturdy rain jacket, good boots, and a hunger for adventure.",
+        "href": "https://hikingnewzealand.com/",
+        "image": "hiking"
+    }
+]

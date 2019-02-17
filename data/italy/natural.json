@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Furore Fiord",
+        "description": "Furore, Campania, Italy. Found on the coast of beautiful Amalfi, Furore is one of the most beautiful little towns in the country. However, it is relatively undiscovered by the tourists, although it is embedded next to popular Positano and features a breathtaking landscape. Furore features a true natural wonder – a fiord, which is very unusual to Italy. The dramatic fiord is rinsed by turquoise water with a nice beach and the settlement gradually ascends the precipitous gorge. Old fishermen houses are scattered there. Visitors come to town to admire fascinating nature and eat at the local restaurants with great views.",
+        "href": "https://www.tripadvisor.com/ShowUserReviews-g3785372-d7376425-r288941869-Fiordo_di_Furore-Fiordo_di_Furore_Furore_Amalfi_Coast_Campania.html",
+        "image": "furore-fiord"
+    },
+
+    {
+        "name": "Valleys of Tuscany",
+        "description": "The Val d'Orcia, or Valdorcia, is a region of Tuscany, central Italy, which extends from the hills south of Siena to Monte Amiata. Its gentle, cultivated hills are occasionally broken by gullies and by picturesque towns and villages such as Pienza (rebuilt as an ideal town in the 15th century under the patronage of Pope Pius II), Radicofani (home to the notorious brigand-hero Ghino di Tacco) and Montalcino (the Brunello di Montalcino is counted among the most prestigious of Italian wines). Its landscape has been depicted in works of art from Renaissance painting to modern photography.",
+        "href": "https://villadaholidays.com/travel-tips/valleys-of-tuscany",
+        "image": "valleys-of-tuscany"
+    },
+
+    {
+        "name": "The Dolomites",
+        "description": "The Dolomites are a mountain range located in northeastern Italy. They form a part of the Southern Limestone Alps and extend from the River Adige in the west to the Piave Valley in the east. The northern and southern borders are defined by the Puster Valley and the Sugana Valley. The Dolomites are nearly equally shared between the provinces of Belluno, South Tyrol and Trentino. There are also mountain groups of similar geological structure that spread over the River Piave to the east – Dolomiti d'Oltrepiave; and far away over the Adige River to the west – Dolomiti di Brenta. There is also another smaller group called Piccole Dolomiti located between the provinces of Trentino, Verona and Vicenza. The Dolomiti Bellunesi National Park and many other regional parks are located in the Dolomites. In August 2009, the Dolomites were declared a UNESCO World Heritage Site",
+        "href": "http://www.visitdolomites.com/en",
+        "image": "dolomites"
+    },
+
+    {
+        "name": "Etna",
+        "description": "Mount Etna is an active stratovolcano on the east coast of Sicily, Italy, in the Metropolitan City of Catania, between the cities of Messina and Catania. It lies above the convergent plate margin between the African Plate and the Eurasian Plate. It is the highest active volcano in Europe outside the Caucasus. It is currently 3,329 m high, though this varies with summit eruptions. It is the highest peak in Italy south of the Alps. Etna covers an area of 1,190 km2 with a basal circumference of 140 km. This makes it by far the largest of the three active volcanoes in Italy, being about two and a half times the height of the next largest, Mount Vesuvius. Only Mount Teide in Tenerife surpasses it in the whole of the European–North-African region west of the Black Sea. In Greek Mythology, the deadly monster Typhon was trapped under this mountain by Zeus, the god of the sky and thunder and king of gods, and the forges of Hephaestus were said to also be located underneath it. Mount Etna is one of the most active volcanoes in the world and is in an almost constant state of activity. The fertile volcanic soils support extensive agriculture, with vineyards and orchards spread across the lower slopes of the mountain and the broad Plain of Catania to the south. Due to its history of recent activity and nearby population, Mount Etna has been designated a Decade Volcano by the United Nations. In June 2013, it was added to the list of UNESCO World Heritage Sites.",
+        "href": "https://en.wikipedia.org/wiki/Mount_Etna",
+        "image": "etna"
+    },
+
+    {
+        "name": "Aeolian Islands",
+        "description": "The Aeolian Islands are a volcanic archipelago in the Tyrrhenian Sea north of Sicily, named after the demigod of the winds Aeolus. The islands' inhabitants are known as Aeolians. The Aeolian Islands are a popular tourist destination in the summer and attract up to 200,000 visitors annually. The largest island is Lipari and the islands are sometimes referred to as the Lipari Islands or Lipari group. The other islands include Vulcano, Salina, Stromboli, Filicudi, Alicudi, Panarea and Basiluzzo.",
+        "href": "http://www.visitsicily.info/en/10cosea/the-aeolian-islands/",
+        "image": "aeolian-islands"
+    },
+
+    {
+        "name": "Lake Garda",
+        "description": "Lake Garda is the largest lake in Italy. It is a popular holiday location located in northern Italy, about halfway between Brescia and Verona, and between Venice and Milan on the edge of the Dolomites. Glaciers formed this alpine region at the end of the last Ice Age. The lake and its shoreline are divided between the provinces of Verona, Brescia, and Trentino. The name Garda, which the lake has been seen referred to in documents dating to the eighth century, comes from the town of the same name. It is the evolution of the Germanic word warda, meaning place of guard or place of observation.",
+        "href": "http://www.visitgarda.com/en/garda_lake/",
+        "image": "lake-garda"
+    },
+
+    {
+        "name": "Sardinia",
+        "description": "Sardinia is the second largest island in the Mediterranean Sea (after Sicily and before Cyprus) and an autonomous region of Italy. It is located in the Western Mediterranean, to the immediate south of the French island of Corsica. The region's official name is Regione Autonoma della Sardegna / Regione Autònoma de Sardigna (Autonomous Region of Sardinia), and its capital and largest city is Cagliari. It is divided into four provinces and a metropolitan city. Its indigenous language and the other minority languages (Sassarese, Corsican Gallurese, Algherese Catalan and Ligurian Tabarchino) spoken on the island are recognized by the regional law and enjoy equal dignity with Italian.",
+        "href": "https://en.wikipedia.org/wiki/Sardinia",
+        "image": "sardinia"
+    },
+
+    {
+        "name": "Gran Paradiso National Park",
+        "description": "Gran Paradiso National Park, is an Italian national park in the Graian Alps, between the Aosta Valley and Piedmont regions. The park is named after Gran Paradiso mountain, which is located in the park, and is contiguous with the French Vanoise national park. The land the park encompasses was initially protected in order to protect the Alpine ibex from poachers, as it was a personal hunting ground for king Victor Emmanuel II, but now also protects other species.",
+        "href": "http://www.pngp.it/en",
+        "image": "gran-paradiso"
+    },
+
+    {
+        "name": "Capri",
+        "description": "Capri is an island located in the Tyrrhenian Sea off the Sorrentine Peninsula, on the south side of the Gulf of Naples in the Campania region of Italy. The main town Capri that is located on the island shares the name. It has been a resort since the time of the Roman Republic. Some of the main features of the island include the following: the Marina Piccola, the Belvedere of Tragara, the limestone crags called sea stacks that project above the sea, the town of Anacapri, the Blue Grotto, and the ruins of the Imperial Roman villas. Capri is part of the region of Campania, Province of Naples. The town of Capri is the island's main population centre. The island has two harbours, Marina Piccola and Marina Grande. The separate comune of Anacapri is located high on the hills to the west.",
+        "href": "https://en.wikipedia.org/wiki/Capri",
+        "image": "capri"
+    }
+
+]

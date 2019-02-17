@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Aggtelek National Park",
+        "description": "Aggtelek National Park (Hungarian: Aggteleki Nemzeti Park) is a national park in Northern Hungary, in the Aggtelek Karst region. The most significant values of the national park are the special surface formations and underground caves in this limestone landscape.The park consists of 280 caves with different sizes. It covers a total area of 198.92 km² of which 39.22 km² are under increased protection. The largest stalactite cave of Europe is situated in this area: the Baradla cave (26 km long, of which 8 km is in Slovakia, known under the name of Domica). Several of the caves have different specialities. For example, the Peace Cave has a sanatorium which help treating people suffering from asthma.",
+        "href": "https://en.wikipedia.org/wiki/Buda_Castle",
+        "image": "aggtelek-national-park-and-caves"
+    },
+
+    {
+        "name": "Balaton lake",
+        "description": "Lake Balaton is a freshwater lake in the Transdanubian region of Hungary. It is the largest lake in Central Europe and one of the region's foremost tourist destinations. The Zala River provides the largest inflow of water to the lake, and the canalised Sió is the only outflow. The mountainous region of the northern shore is known both for its historic character and as a major wine region, while the flat southern shore is known for its resort towns. Balatonfüred and Hévíz developed early as resorts for the wealthy, but it was not until the late 19th century when landowners, ruined by Phylloxera attacking their grape vines, began building summer homes to rent out to the burgeoning middle classes.",
+        "href": "http://budapestrivercruise.com/",
+        "image": "balaton"
+    }
+]
