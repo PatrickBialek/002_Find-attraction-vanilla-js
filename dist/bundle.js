@@ -174,7 +174,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (window.addEventListener('load', () => {\n\tconsole.log(\"content loaded...\");\n\tconst preloader = document.querySelector('#preloader');\n\tpreloader.style.display = \"none\";\n}));\n\n//# sourceURL=webpack:///./src/js/preloader.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (window.addEventListener('load', () => {\n\n\tsetTimeout(() => {\n\t\tconst preloader = document.querySelector('#preloader');\n\t\tpreloader.style.display = \"none\";\n\t}, 350)\n\n}));\n\n//# sourceURL=webpack:///./src/js/preloader.js?");
 
 /***/ }),
 
