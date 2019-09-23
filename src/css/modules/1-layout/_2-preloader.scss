@@ -1,0 +1,49 @@
+.preloader {
+	background-color: $white-grey;
+	width: 100%;
+	height: 100vh;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 10;
+	display: flex;
+	justify-content: center;
+
+	&__pulse-container {
+		width: 120px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	&__pulse-bubble {
+		width: 20px;
+		height: 20px;
+		border-radius: 50%;
+		background-color: #1d1711;
+
+		&--1 {
+			animation: pulse .4s ease 0s infinite alternate;
+		}
+
+		&--2 {
+			animation: pulse .4s ease .2s infinite alternate;
+		}
+
+		&--3 {
+			animation: pulse .4s ease .4s infinite alternate;
+		}
+	}
+}
+
+@keyframes pulse {
+	from {
+		opacity: 1;
+		transform: scale(1);
+	}
+
+	to {
+		opacity: .25;
+		transform: scale(.75);
+	}
+}
