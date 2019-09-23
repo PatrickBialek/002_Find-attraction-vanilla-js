@@ -7,8 +7,8 @@
 	background: $white;
 	width: 20rem;
 	padding: 4px 12px;
-	transition: all 0.35s ease-out;
 }
+
 .select,
 .btn,
 .link-btn {
@@ -25,25 +25,30 @@
 	-ms-appearance: none;
 	appearance: none;
 }
+
 #select-type {
 	opacity: 0;
 	cursor: default;
 }
+
 #search-propositions {
 	opacity: 0;
 	cursor: default;
 }
+
 .btn {
 	margin-top: 2rem;
 	border-radius: 4px;
 	background-color: $white;
 	padding: 8px 12px;
 	width: 14rem;
-	transition: all 0.35s ease-out;
+	transition: transform 0.35s ease-out;
+
 	&:hover {
 		transform: translateY(-2px);
 	}
 }
+
 .link-btn {
 	background-color: transparent;
 	border-radius: 4px;
@@ -60,7 +65,8 @@
 	text-align: center;
 	text-decoration: none;
 	text-transform: uppercase;
-	transition: all 0.35s ease-out;
+	transition: background-color 0.35s ease-out, color 0.35s ease-out;
+
 	&:hover {
 		background-color: $orange;
 		color: $white;
